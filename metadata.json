@@ -1,0 +1,6 @@
+{
+  "name": "BABU BHAI - AI Prediction Bot",
+  "description": "AI-powered live WinGo 30S and 1M prediction bot with real-time period synchronization, confidence score rings, and result history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
